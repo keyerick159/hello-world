@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello friends¡
+
+I am Peruvian that this learning some programming .
