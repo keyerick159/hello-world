@@ -2,4 +2,4 @@
 
 Hello friends¡
 
-I am Peruvian of is learning some programming .
+I am Peruvian that this learning some programming .
